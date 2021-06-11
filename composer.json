@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Lotos\\Http\\Handler": "src/"
+            "Lotos\\Http\\Handler\\": "src/"
         }
     },
     "minimum-stability": "stable",
